@@ -1,4 +1,6 @@
-:root {
+
+
+/*:root {
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
@@ -104,4 +106,9 @@ a {
   html {
     color-scheme: dark;
   }
+}
+*/
+
+body{
+  background: linear-gradient(125deg,#efedff 20%,#f0f5ff 50%,#f7f2ff 90%),#efedff;
 }
